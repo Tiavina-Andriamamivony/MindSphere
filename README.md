@@ -37,4 +37,4 @@
 
 1. Clonez le dépôt du projet :
    ```bash
-   git clone https://github.com/tonprofil/mindsphere.git
+   git clone https://github.com/Tiavina-Andriamamivony/MindSphere.git
